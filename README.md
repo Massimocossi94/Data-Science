@@ -14,7 +14,7 @@ The functions I test are:
 
 These functions have 'plotting' as a parameter, if this is set to True the function returns a visual report.
 
-To do the tests I used the heart beat (with a percentage of fake random missing given from 10% to 60%) and the steps of a patient with an initial correlation between the two of 0.52.
+To do the tests I used the heart beat (with a percentage of fake random missing data given from 10% to 60%) and the steps of a patient with an initial correlation between the two of 0.52.
 
 Final results:
 
